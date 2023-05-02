@@ -1,1 +1,2 @@
 # ReinforcementLearning
+In this repository I will be posting my homeworks from my course on Reinforcement Learning from the University of Warsaw. The purpose of the algorithms is to train robots and artificial intelligence in games. Each project is about a different algorithm and they show different approaches to the issues at hand, most of them based on neural networks. I use TensorFlow for optimisation.
